@@ -1,3 +1,3 @@
-resource "aws_alb" "aws" {
+resource "" ""
 
-}
+fff
