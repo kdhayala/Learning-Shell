@@ -10,4 +10,6 @@ fi
 x="abc"
 if [ $x == abc ]; then
   echo yes both are equal
+else
+  echo both are not equal
 fi
