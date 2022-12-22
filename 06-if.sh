@@ -13,3 +13,10 @@ if [ $x == abc ]; then
 else
   echo both are not equal
 fi
+
+file=/tmp/new
+if [-f $file ]; then
+  echo File Exists
+else
+  echo  File doesnt Exists
+fi
