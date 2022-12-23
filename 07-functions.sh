@@ -20,7 +20,7 @@ SAMPLE1() {
 
 ## Main Program
 a=10
-SAMPLE
+SAMPLE angel
 SAMPLE1
 echo b from FUNCTION = $b
 b=200
