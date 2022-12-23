@@ -6,7 +6,7 @@
      echo  SAMPLE FUNCTION
      b=10
      echo  first Arguments to script = $1
-     return  100
+     RETURN  100
  }
 
 
@@ -22,7 +22,7 @@ SAMPLE1() {
 ## Main Program
 a=10
 SAMPLE angel
-echo  return STATUS = $?
+echo  RETURN STATUS = $?
 # Sample 1
 SAMPLE1
 echo b from FUNCTION = $b
